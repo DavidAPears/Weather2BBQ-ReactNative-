@@ -1,5 +1,5 @@
-# React-native-mission
-React native mission
+# Weather2BBQ
+Weather2BBQ-ReactNative
 
 <b>To run on Android/Apple emulator device:</b>
 
@@ -59,5 +59,3 @@ npm i react-native-circle-slider
 brew cask install android-platform-tools
 
 adb logcat | grep ReactNativeJS
-# React-native-mission2
-# Weather2BBQ-ReactNative-
