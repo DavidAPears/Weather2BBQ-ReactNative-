@@ -8,9 +8,9 @@
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather2bbq.jpg",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash0.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,7 +24,8 @@
       "supportsTablet": true
     },
     "android": {
-     "package": "com.weather2.weather2bbq"
+     "package": "com.weather2.weather2bbq",
+     "versionCode": 2.0
    }
   }
 }
